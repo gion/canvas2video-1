@@ -48,7 +48,7 @@
     "dependencies": {
         "cli-progress": "^3.8.2",
         "fabric": "^4.1.0",
-        "ffmpeg-static": "^4.2.7",
+        "ffmpeg-static": "^4.4.0",
         "ffprobe-static": "^3.0.0",
         "fluent-ffmpeg": "^2.1.2",
         "gsap": "^3.5.0"
